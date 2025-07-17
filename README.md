@@ -2,7 +2,7 @@
 This project was conducted under the guidance of Prof. Rajesh M. Hegde at IIT Kanpur.
 ----
 ### Project Verification  
-[Click here to view the Project Verification File (PVF)](https://github.com/kaushalmehra23/Small-World-Inspired-Optical-Neural-Network/blob/eb0c6607380ef28cd5033820758625adb0a798f5/Small-World-Inspired%20Optical%20Neural%20Network_PVF.pdf))
+[Click here to view the Project Verification File (PVF)](https://github.com/kaushalmehra23/Small-World-Inspired-Optical-Neural-Network/blob/eb0c6607380ef28cd5033820758625adb0a798f5/Small-World-Inspired%20Optical%20Neural%20Network_PVF.pdf)
 # Small-World-Inspired-Optical-Neural-Network
 This repository contains some of the code we used to train our optical neural network models. The models are inspired by small-world connectivity and simulate light propagation using techniques like the Angular Spectrum Method.
 Files with the prefix "BEST" are models that achieved the highest accuracy in our experiments.
